@@ -1,0 +1,10 @@
+[
+  {
+    "home": "https://demo.opencart.com/index.php?route=common/home",
+    "login": "https://demo.opencart.com/index.php?route=account/login",
+    "register": "https://demo.opencart.com/index.php?route=account/register",
+    "success": "https://demo.opencart.com/index.php?route=account/success",
+    "account": "https://demo.opencart.com/index.php?route=account/account",
+    "cart": "https://demo.opencart.com/index.php?route=checkout/cart"
+  }
+]
